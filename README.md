@@ -53,6 +53,7 @@ OBS: Se desejar, pode baixar um zip com todos os arquivos necessários para esse
 ![Shared Directory](img/img09.jpg)
 
 10. Na tela "Summary", escolha “Save”.
+
 ![Summary](img/img10.jpg)
 
 11. Agora clique no grande botão Reproduzir para inicializar a VM do Windows 11 e iniciar a configuração.
