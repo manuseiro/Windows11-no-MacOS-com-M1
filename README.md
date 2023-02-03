@@ -11,12 +11,13 @@ O UTM é um emulador de sistema completo e host de máquina virtual para iOS e m
 - 8GB RAM
 - 60 GB de espaço livre em disco
 - UTM - Emulador ([**Baixar**](https://mac.getutm.app/))
+- SPICE Guest Tools ([**Baixar**](https://github.com/utmapp/qemu/releases/download/v6.2.0-utm/spice-guest-tools-0.164.3.iso))
 - VM do Windows 11 para ARM ([**Baixar**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewARM64)) ou Baixar pelo UUP dump ([**Baixar**](https://uupdump.net/known.php))
 - Comando para para Abrir o CMD
 
 OBS: Se desejar, pode baixar um zip com todos os arquivos necessários para esse tutorial nesse link.
 
-## Intalando o emulado UTM
+## Intalando o emulado UTM e Maquina VM do Windows 11 ARM
 
 1. Abra o arquivo UTM.dmg e arraste até a pasta Aplicativos para instalá-lo no Mac.
 
@@ -79,4 +80,28 @@ Fn + Shift + F10
 
 15. Após maquina inciar siga com o processo de configuração do Windows 11 como de costume, escolhendo sua região, nome da conta, etc.. em seguida o Windows 11 vai fazer sua auto configuração. Aguarde alguns minutos e o Windows 11 será iniciado na Máquina Virtual no Mac chip M.
 
-![Windows 11 Instalado](img/img14.jpg)
+![Windows 11 Instalado](img/img15.jpg)
+
+## Instalando SPICE Guest Tools (Otimizar Maquina Virtual)
+
+1. Retorne na janela de Controle do UTM
+
+![Controle do UTM](img/img16.jpg)
+
+2. Na opção CD/DVD > Browser, selecione a imagem ISO do SPICE Guest Tools.
+
+![CD/DVD](img/img17.jpg)
+
+3. Selecione o arquivo spice-guest-tools-X.XXX.X.iso e clique em "open".
+
+![SPICE Guest Tools](img/img18.jpg)
+
+4. Retorne a Maquina Virtual Windwos 11 e selecione a unidade de CD no canto esquerdo da tela, em seguida clique duas vezes no arquivo spice-guest-tools-X.XXX.X. Vai abrir um instalador. É só você seguir os passos e intalar o programa.
+
+![Instalando SPICE Guest Tools](img/img19.jpg)
+
+5. Na ultma tela do instalador será necessário Reinicar o Windows, clique em Finish para reiniciar.
+
+![Instalando SPICE Guest Tools](img/img19.jpg)
+
+ Com isso a maquina virtual com Windows 11 já esta instalado.
