@@ -1,6 +1,8 @@
 # Como executar o Windows11 no MacBook Air com M1 ou M2
  Como executar Windows11 no MacOS com processadores M1 da Apple
 
+ Esse passo a passo é voltado especificamente para Apple Silicon Macs. Os Macs Intel oferecem muitas outras maneiras de executar o Windows 11 em máquinas virtuais, como VirtualBox, VMware, Parallels, etc.
+
 ## O que é UTM?
 O UTM é um emulador de sistema completo e host de máquina virtual para iOS e macOS. É baseado no QEMU. Resumindo, ele permite que você execute Windows, Linux e muito mais em seu Mac, iPhone e iPad. Confira os links à esquerda para mais informações.
 
