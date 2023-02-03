@@ -5,11 +5,11 @@
 O UTM é um emulador de sistema completo e host de máquina virtual para iOS e macOS. É baseado no QEMU. Resumindo, ele permite que você execute Windows, Linux e muito mais em seu Mac, iPhone e iPad. Confira os links à esquerda para mais informações.
 
 ## Necessário para Instalação:
-- Macbook com chip M
+- Macbook com chip M1 ou superior
 - 8GB RAM
 - 60 GB de espaço livre em disco
 - UTM - Emulador ([**Baixar**](https://mac.getutm.app/))
-- VM do Windows 11 para ARM ([**Baixar**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewARM64))
+- VM do Windows 11 para ARM ([**Baixar**](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewARM64)) ou Baixar pelo UUP dump ([**Baixar**](https://uupdump.net/known.php))
 - Comando para para Abrir o CMD
 
 OBS: Se desejar, pode baixar um zip com todos os arquivos necessários para esse tutorial nesse link.
