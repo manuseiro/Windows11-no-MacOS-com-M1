@@ -105,6 +105,6 @@ oobe\bypassnro
 
 5. Na ultma tela do instalador será necessário Reinicar o Windows, clique em Finish para reiniciar.
 
-![Instalando SPICE Guest Tools](img/img19.jpg)
+![Instalando SPICE Guest Tools](img/img20.jpg)
 
  Com isso a maquina virtual com Windows 11 já esta instalado.
