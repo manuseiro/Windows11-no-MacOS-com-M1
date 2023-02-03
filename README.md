@@ -75,6 +75,9 @@ Fn + Shift + F10
 ![Comando para habilitar o OOBE](img/img13.jpg)
 
 14. Execute o comando: oobe\bypassnro e precione ENTER, a maquina virtual será reiniciada.
+```bash
+oobe\bypassnro
+```
 
 ![Comando para habilitar o OOBE](img/img14.jpg)
 
